@@ -1,6 +1,6 @@
 body {
 	background-image:
-		url("pic/13.jpg");
+		url("pic/background.png");
 	font-size: small;
 }
 
@@ -53,17 +53,17 @@ body {
 	float: left;
 	margin-right: 25px;
 	margin-bottom: 25px;
-	width: 200px;
-	height: 160px;
+	width: 220px;
+	height: 200px;
 	border: 1px;
 	background-color: #FFFFFF;
 }
 
 .d3 img {
-	margin-top: 50px;
+	margin-top: 10px;
 	margin-bottom: 30px;
-	height: 160px;
-	width: 160px;
+	height: 180px;
+	width: 180px;
 }
 
 .d3 .dd1 {
@@ -74,27 +74,6 @@ body {
 }
 
 .d3 .dd1 font {
-	margin-left: -214px;
-}
-
-.d4 {
-	background: rgba(242, 242, 242, 0.98) url("pic/13.jpg")
-		repeat scroll 0% 0%;
-	border-top: 1px solid rgb(216, 216, 216);
-	bottom: 0px;
-	height: 50px;
-	padding-top: 12px;
-	position: fixed;
-	text-align: center;
-	width: 100%;
-}
-
-.d4 img {
-	float: left;
-}
-
-.d4 div {
-	background-image:
-		url("file:///G:/briup-code/work1-workspace/jd1911-html/WebContent/imgs/noise.png");
-	float: right;
+	margin-left: 0px;
+	
 }
