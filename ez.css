@@ -1,0 +1,100 @@
+body {
+	background-image:
+		url("file:///G:/briup-code/work1-workspace/jd1911-html/WebContent/imgs/bg.jpg");
+	font-size: small;
+}
+
+.d1 {
+	margin-top: 20px;
+}
+
+.d1 button {
+	margin-left: 80px;
+	color: #FFFFFF;
+	background-image: linear-gradient(rgb(241, 168, 74), rgb(219, 110, 24));
+	border: 1px solid rgb(219, 110, 21);
+	border-radius: 2px;
+	box-shadow: rgb(247, 202, 127) 0px 0px 0px 1px inset;
+	padding: 2px 4px;
+	cursor: pointer;
+	font-size: small;
+}
+
+.d1 img {
+	float: right;
+	margin-right: 90px;
+}
+
+.d2 {
+	margin-top: 10px;
+}
+
+.d2 .in1 {
+	height: 30px;
+	width: 400px;
+}
+
+.d2 button {
+	height: 30px;
+}
+
+.d2 div {
+	margin-right: 200px;
+	margin-top: 10px;
+}
+
+.d3 {
+	width: 1300px;
+	margin-left: 180px;
+	margin-top: 80px;
+}
+
+.d3 div {
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	width: 270px;
+	height: 160px;
+	border: 1px;
+	background-color: #FFFFFF;
+}
+
+.d3 img {
+	margin-top: 50px;
+	margin-bottom: 30px;
+	height: 50px;
+	width: 147px;
+}
+
+.d3 .dd1 {
+	background: rgb(250, 250, 250) none repeat scroll 0% 0%;
+	height: 30px;
+	bottom: 0px;
+	line-height: 30px;
+}
+
+.d3 .dd1 font {
+	margin-left: -214px;
+}
+
+.d4 {
+	background: rgba(242, 242, 242, 0.98) url("/static/img/noise.png")
+		repeat scroll 0% 0%;
+	border-top: 1px solid rgb(216, 216, 216);
+	bottom: 0px;
+	height: 50px;
+	padding-top: 12px;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+.d4 img {
+	float: left;
+}
+
+.d4 div {
+	background-image:
+		url("file:///G:/briup-code/work1-workspace/jd1911-html/WebContent/imgs/noise.png");
+	float: right;
+}
