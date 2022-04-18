@@ -78,7 +78,7 @@ body {
 }
 
 .d4 {
-	background: rgba(242, 242, 242, 0.98) url("/static/img/noise.png")
+	background: rgba(242, 242, 242, 0.98) url("pic/13.jpg")
 		repeat scroll 0% 0%;
 	border-top: 1px solid rgb(216, 216, 216);
 	bottom: 0px;
