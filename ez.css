@@ -1,9 +1,13 @@
 body {
 	background-image:
 		url("pic/background.png");
-	font-size: small;
 	background-attachment: fixed;
 	background-repeat:no-repeat;
+	height: 100%;
+    width: 100%;
+	background-size: cover;
+    position: absolute;
+    overflow: hidden;
 }
 
 .d1 {
@@ -77,5 +81,5 @@ body {
 
 .d3 .dd1 font {
 	margin-left: 0px;
-	
+	font-family: 华文行楷;
 }
